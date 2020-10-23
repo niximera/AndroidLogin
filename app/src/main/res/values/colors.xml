@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#da3e3c</color>
+    <color name="colorPrimaryDark">#930707</color>
+    <color name="colorAccent">#2e2a2b</color>
+    <color name="colorAccent_pp_btn">#2F2E2A2B</color>
+    <color name="white_transparent">#66FFFFFF</color>
+    <color name="white_fake">#FFFFFF</color>
+    <color name="white_fake_transparent">#20F1F1F1</color>
+</resources>

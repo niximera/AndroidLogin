@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">LoginTestNewVersion</string>
+    <string name="e_mail">Email</string>
+    <string name="password">Password</string>
+    <string name="pasword2">Pass. again</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="tel">Tel</string>
+    <string name="address">Address</string>
+    <string name="register">Register</string>
+    <string name="nick">Nick</string>
+    <string name="information">Your profession and other summary information</string>
+    <string name="next">Next</string>
+    <string name="TouchToSelect">Toch to select</string>
+    <string name="whatisyourjob">What is your job</string>
+    <string name="search_text">Search..</string>
+    <string name="edit">Edit</string>
+    <string name="consuldation_periot">Consultation Period</string>
+    <string name="consulting_time">Consuldation Time</string>
+    <string name="consuldation_fee">Consuldation Fee</string>
+    <string name="total_earnings">Total Earnings</string>
+    <string name="last_consultancy_date">Last C</string>
+    <string name="account_edit">Bilgilerimi düzenle</string>
+    <string name="bank_account">Banka Hesabı</string>
+    <string name="consuldation_adet">Danışmanlık Adeti</string>
+    <string name="back">Back</string>
+    <string name="bank_account_information">Banka hesap bilgileriniz:</string>
+    <string name="save">Kaydet</string>
+    <string name="iban_info">Size özel bilgiler asla 3. sahis ile paylaşılmaz. Hesabınıza para aktarımı belirli periyotlarda olur.</string>
+    <string name="iban_insert">IBAN numaranızı giriniz</string>
+    <string name="profession">Uzmanlık Alanı / Meslek</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
+    <string name="login">Login</string>
+    <string name="new_acc">Don\'t have a membership? Touch to create.</string>
+    <string name="todo">TODO</string>
+
+</resources>

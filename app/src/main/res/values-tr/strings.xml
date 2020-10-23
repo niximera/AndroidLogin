@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">LoginTestNewVersion</string>
+    <string name="e_mail">E-posta</string>
+    <string name="password">Şifre</string>
+    <string name="pasword2">Şifre tekrar</string>
+    <string name="name">İsminiz</string>
+    <string name="surname">Soyadınız</string>
+    <string name="tel">Telefonunuz</string>
+    <string name="address">Adresiniz</string>
+    <string name="register">Kaydol</string>
+    <string name="nick">Takma ad</string>
+    <string name="information">Mesleğiniz ve diğer özet bilgiler</string>
+    <string name="next">Devam</string>
+    <string name="TouchToSelect">Seçmek için dokununuz</string>
+    <string name="whatisyourjob">Mesleğiniz</string>
+    <string name="search_text">Arama..</string>
+    <string name="edit">Düzenle</string>
+    <string name="consuldation_periot">Danışma Süresi</string>
+    <string name="consulting_time">Danışmanlık süresi</string>
+    <string name="consuldation_fee">Danışmanlık Ücreti</string>
+    <string name="total_earnings">Toplam Kazanç</string>
+    <string name="last_consultancy_date">Son yapılan danışmanlık tarihi</string>
+    <string name="account_edit">Bilgilerimi düzenle</string>
+    <string name="bank_account">Banka Hesabı</string>
+    <string name="consuldation_adet">Danışmanlık Adeti</string>
+    <string name="back">Geri</string>
+    <string name="bank_account_information">Banka hesap bilgileriniz:</string>
+    <string name="save">Kaydet</string>
+    <string name="iban_info">Size özel bilgiler asla 3. sahis ile paylaşılmaz. Hesabınıza para aktarımı belirli periyotlarda olur.</string>
+    <string name="iban_insert">IBAN numaranızı giriniz</string>
+    <string name="profession">Uzmanlık Alanı / Meslek</string>
+    <string name="email">E-Posta</string>
+    <string name="pass">Şifre</string>
+    <string name="login">Giriş</string>
+    <string name="new_acc">Üyeliğiniz yok mu? Oluşturmak için dokununuz.</string>
+    <string name="todo">TODO</string>
+
+</resources>
